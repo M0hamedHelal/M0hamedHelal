@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-helal-063783279"><img src="https://img.shields.io/badge/Mohamed%20Helal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YourUsername">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
